@@ -7,11 +7,11 @@ VALUES ("Finance");,
 VALUES ("Legal");
 
 INSERT INTO roles (title, salary, department_id)
-VALUES ("Sales Lead", 100000, 1);,
-VALUES ("Lead Engineer", 150000, 2);,
-VALUES ("Software Engineer", 120000, 6287);,
-VALUES ("Accountant", 125000, 3);,
-VALUES ("Legal Team Lead", 250000, 4);,
+VALUES ("Engineer Shift Leader", 135000, 2486);,
+VALUES ("Sales Leader", 274000, 7613);,
+VALUES ("Software Engineer", 236000, 6287);,
+VALUES ("Accountant", 422000, 3983);,
+VALUES ("Legal Team Lead", 250000, 8322);,
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES ("Belveth", "Nickels", 1, 1),
