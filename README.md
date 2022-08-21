@@ -2,9 +2,9 @@
 
 ## Your Task
 
-Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+To develop a database that stores and organize upcoming employees into you business. We want the ability to access and manage workers information as well as information of the departments they are in or applying for.
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
+This project is js, node, and mysql based to create the modules of the users information and storing/organizing them into proper tables.
 
 ## User Story
 
@@ -13,4 +13,10 @@ AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 ```
+## License
+
+This application uses the BSD license. For more information, please follow the below link.
+
+https://opensource.org/licenses/BSD-2-Clause
+
 
