@@ -2,7 +2,7 @@ USE employeesDB;
 
 INSERT INTO department (name)
 VALUES ("Sales");,
-VALUES ("Engineering");.
+VALUES ("Engineering");,
 VALUES ("Finance");,
 VALUES ("Legal");
 
